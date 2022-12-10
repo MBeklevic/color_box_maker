@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/box_maker/static/css/main.15e41a9f.css",
+    "main.js": "/box_maker/static/js/main.d754494a.js",
+    "static/js/787.8f7870fa.chunk.js": "/box_maker/static/js/787.8f7870fa.chunk.js",
+    "index.html": "/box_maker/index.html",
+    "main.15e41a9f.css.map": "/box_maker/static/css/main.15e41a9f.css.map",
+    "main.d754494a.js.map": "/box_maker/static/js/main.d754494a.js.map",
+    "787.8f7870fa.chunk.js.map": "/box_maker/static/js/787.8f7870fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e41a9f.css",
+    "static/js/main.d754494a.js"
+  ]
+}
