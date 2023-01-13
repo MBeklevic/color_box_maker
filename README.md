@@ -1,4 +1,4 @@
 # Color Box Maker
 
-Live: https://mbeklevic.github.io/box_maker/
+Live: https://mbeklevic.github.io/color_box_maker/
 
