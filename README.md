@@ -10,6 +10,7 @@
 
 ## Features
 - User can make color boxes by entering the color and height values.
+- Responsive Design
 
 ## Libraries
 - React
