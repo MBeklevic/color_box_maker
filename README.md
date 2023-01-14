@@ -1,6 +1,6 @@
 
 ## Color Box Maker
-### Color Box Application with React
+### Color Box Application with React and Reactstrap
 
 ### Live Demo
 [Click here to see it live](https://mbeklevic.github.io/color_box_maker/)
